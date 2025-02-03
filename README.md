@@ -31,6 +31,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/racket/g0001_0100/s0035_search_insert_position/Solution.rkt)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Two Pointers
 
@@ -78,6 +79,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 11 Recursion Backtracking
 
@@ -105,6 +107,8 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Binary Search
 
@@ -152,12 +156,14 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/racket/g0001_0100/s0039_combination_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 7 | 100.00
 
 #### Day 11 Recursion Backtracking
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0017 |[Letter Combinations of a Phone Number](src/main/racket/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0022 |[Generate Parentheses](src/main/racket/g0001_0100/s0022_generate_parentheses/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 3 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -221,6 +227,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/racket/g0001_0100/s0035_search_insert_position/Solution.rkt)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 3
 
@@ -236,6 +243,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 6
 
@@ -266,6 +274,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 12
 
@@ -787,6 +796,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 4 Linked List
 
@@ -891,6 +901,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 9 Binary Search Tree
 
@@ -952,6 +963,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/racket/g0001_0100/s0039_combination_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 7 | 100.00
 
 ### Udemy
 
@@ -974,6 +986,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Udemy Arrays
 
@@ -1006,6 +1019,9 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/racket/g0001_0100/s0024_swap_nodes_in_pairs/Solution.rkt)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0025 |[Reverse Nodes in k-Group](src/main/racket/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.rkt)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 
 #### Udemy Tree Stack Queue
 
@@ -1032,6 +1048,8 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0022 |[Generate Parentheses](src/main/racket/g0001_0100/s0022_generate_parentheses/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 3 | 100.00
+| 0039 |[Combination Sum](src/main/racket/g0001_0100/s0039_combination_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 7 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/racket/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 
 #### Udemy Bit Manipulation
@@ -1092,6 +1110,8 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0002 |[Add Two Numbers](src/main/racket/g0001_0100/s0002_add_two_numbers/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 0 | 100.00
+| 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0025 |[Reverse Nodes in k-Group](src/main/racket/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.rkt)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 | 0019 |[Remove Nth Node From End of List](src/main/racket/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
 
 #### Top Interview 150 Binary Tree General
@@ -1129,11 +1149,14 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0017 |[Letter Combinations of a Phone Number](src/main/racket/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0039 |[Combination Sum](src/main/racket/g0001_0100/s0039_combination_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 7 | 100.00
+| 0022 |[Generate Parentheses](src/main/racket/g0001_0100/s0022_generate_parentheses/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 3 | 100.00
 
 #### Top Interview 150 Divide and Conquer
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0023 |[Merge k Sorted Lists](src/main/racket/g0001_0100/s0023_merge_k_sorted_lists/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 306 | 100.00
 
 #### Top Interview 150 Kadane's Algorithm
 
@@ -1144,6 +1167,9 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/racket/g0001_0100/s0035_search_insert_position/Solution.rkt)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 | 0004 |[Median of Two Sorted Arrays](src/main/racket/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1), AI_can_be_used_to_solve_the_task | 0 | 100.00
 
 #### Top Interview 150 Heap
@@ -1210,6 +1236,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 8 Linked List
 
@@ -1311,11 +1338,13 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0024 |[Swap Nodes in Pairs](src/main/racket/g0001_0100/s0024_swap_nodes_in_pairs/Solution.rkt)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 13 Linked List
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0025 |[Reverse Nodes in k-Group](src/main/racket/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.rkt)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 
 #### Day 14 Stack Queue
 
@@ -1361,6 +1390,16 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0039 |[Combination Sum](src/main/racket/g0001_0100/s0039_combination_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Top_Interview_150_Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 7 | 100.00
+| 0035 |[Search Insert Position](src/main/racket/g0001_0100/s0035_search_insert_position/Solution.rkt)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2, Top_Interview_150_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5, Top_Interview_150_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_11, Level_2_Day_8_Binary_Search, Udemy_Binary_Search, Top_Interview_150_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0032 |[Longest Valid Parentheses](src/main/racket/g0001_0100/s0032_longest_valid_parentheses/Solution.rkt)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Stack, Big_O_Time_O(n)_Space_O(1) | 3 | 100.00
+| 0025 |[Reverse Nodes in k-Group](src/main/racket/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.rkt)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
+| 0024 |[Swap Nodes in Pairs](src/main/racket/g0001_0100/s0024_swap_nodes_in_pairs/Solution.rkt)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0023 |[Merge k Sorted Lists](src/main/racket/g0001_0100/s0023_merge_k_sorted_lists/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Top_Interview_150_Divide_and_Conquer, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 306 | 100.00
+| 0022 |[Generate Parentheses](src/main/racket/g0001_0100/s0022_generate_parentheses/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Top_Interview_150_Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 3 | 100.00
+| 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_7_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 | 0020 |[Valid Parentheses](src/main/racket/g0001_0100/s0020_valid_parentheses/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Data_Structure_I_Day_9_Stack_Queue, Udemy_Strings, Top_Interview_150_Stack, Big_O_Time_O(n)_Space_O(n) | 98 | 100.00
 | 0019 |[Remove Nth Node From End of List](src/main/racket/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Algorithm_I_Day_5_Two_Pointers, Level_2_Day_3_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/racket/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Top_Interview_150_Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
