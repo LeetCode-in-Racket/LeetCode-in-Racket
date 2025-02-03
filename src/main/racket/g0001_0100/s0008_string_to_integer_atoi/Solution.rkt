@@ -1,43 +1,23 @@
-package g0001_0100.s0008_string_to_integer_atoi;
+; #Medium #Top_Interview_Questions #String #2025_02_03_Time_3_(100.00%)_Space_101.64_(100.00%)
 
-// #Medium #Top_Interview_Questions #String #2024_11_09_Time_1_ms_(100.00%)_Space_42_MB_(95.40%)
-
-public class Solution {
-    public int myAtoi(String str) {
-        if (str == null || str.isEmpty()) {
-            return 0;
-        }
-        int i = 0;
-        boolean negetiveSign = false;
-        char[] input = str.toCharArray();
-        while (i < input.length && input[i] == ' ') {
-            i++;
-        }
-        if (i == input.length) {
-            return 0;
-        } else if (input[i] == '+') {
-            i++;
-        } else if (input[i] == '-') {
-            i++;
-            negetiveSign = true;
-        }
-        int num = 0;
-        while (i < input.length && input[i] <= '9' && input[i] >= '0') {
-            // current char
-            int tem = input[i] - '0';
-            tem = negetiveSign ? -tem : tem;
-            // avoid invalid number like 038
-            if (num == 0 && tem == '0') {
-                i++;
-            } else if (num == Integer.MIN_VALUE / 10 && tem <= -8 || num < Integer.MIN_VALUE / 10) {
-                return Integer.MIN_VALUE;
-            } else if (num == Integer.MAX_VALUE / 10 && tem >= 7 || num > Integer.MAX_VALUE / 10) {
-                return Integer.MAX_VALUE;
-            } else {
-                num = num * 10 + tem;
-                i++;
-            }
-        }
-        return num;
-    }
-}
+(define/contract (my-atoi s)
+  (-> string? exact-integer?)
+  (let* ((trimmed (string-trim s))
+         (len (string-length trimmed)))
+    (if (zero? len)
+        0
+        (let loop ((i 0) (neg? #f) (num 0) (started? #f))
+          (cond
+            ((= i len) num)
+            ((and (not started?) (char-whitespace? (string-ref trimmed i))) (loop (+ i 1) neg? num started?))
+            ((and (not started?) (char=? (string-ref trimmed i) #\+)) (loop (+ i 1) neg? num #t))
+            ((and (not started?) (char=? (string-ref trimmed i) #\-)) (loop (+ i 1) #t num #t))
+            ((char-numeric? (string-ref trimmed i))
+             (let* ((digit (- (char->integer (string-ref trimmed i)) (char->integer #\0)))
+                    (digit (if neg? (- digit) digit))
+                    (next-num (+ (* num 10) digit)))
+               (cond
+                 ((> next-num (sub1 (expt 2 31))) (sub1 (expt 2 31)))
+                 ((< next-num (- (expt 2 31))) (- (expt 2 31)))
+                 (else (loop (+ i 1) neg? next-num #t)))))
+            (else num))))))
