@@ -58,7 +58,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 134 | 75.00
+| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 119 | 71.43
 
 #### Day 7 Breadth First Search Depth First Search
 
@@ -188,7 +188,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 10 | 50.00
+| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
 
 #### Day 15 Dynamic Programming
 
@@ -489,7 +489,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 10 | 50.00
+| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
 
 #### Day 18
 
@@ -961,7 +961,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 134 | 75.00
+| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 119 | 71.43
 | 0076 |[Minimum Window Substring](src/main/racket/g0001_0100/s0076_minimum_window_substring/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 151 | 100.00
 
 #### Day 15 Tree
@@ -1012,9 +1012,9 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 134 | 75.00
+| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 119 | 71.43
 | 0020 |[Valid Parentheses](src/main/racket/g0001_0100/s0020_valid_parentheses/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 98 | 100.00
-| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 10 | 50.00
+| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
 | 0049 |[Group Anagrams](src/main/racket/g0001_0100/s0049_group_anagrams/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 72 | 100.00
 
 #### Udemy Binary Search
@@ -1138,7 +1138,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 134 | 75.00
+| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 119 | 71.43
 | 0076 |[Minimum Window Substring](src/main/racket/g0001_0100/s0076_minimum_window_substring/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 151 | 100.00
 
 #### Top Interview 150 Matrix
@@ -1272,7 +1272,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0064 |[Minimum Path Sum](src/main/racket/g0001_0100/s0064_minimum_path_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 92 | 100.00
-| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 10 | 50.00
+| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
 | 0072 |[Edit Distance](src/main/racket/g0001_0100/s0072_edit_distance/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 4 | 100.00
 
 ### Data Structure I
@@ -1408,7 +1408,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 10 | 50.00
+| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
 
 #### Day 10 Linked List
 
@@ -1528,11 +1528,11 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0008 |[String to Integer (atoi)](src/main/racket/g0001_0100/s0008_string_to_integer_atoi/Solution.rkt)| Medium | Top_Interview_Questions, String | 3 | 100.00
 | 0007 |[Reverse Integer](src/main/racket/g0001_0100/s0007_reverse_integer/Solution.rkt)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 204 | 100.00
 | 0006 |[Zigzag Conversion](src/main/racket/g0001_0100/s0006_zigzag_conversion/Solution.rkt)| Medium | String, Top_Interview_150_Array/String | 57 | 100.00
-| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 10 | 50.00
-| 0004 |[Median of Two Sorted Arrays](src/main/racket/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1), AI_can_be_used_to_solve_the_task | 0 | 100.00
-| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 134 | 75.00
-| 0002 |[Add Two Numbers](src/main/racket/g0001_0100/s0002_add_two_numbers/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Data_Structure_II_Day_10_Linked_List, Programming_Skills_II_Day_15, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 0 | 100.00
-| 0001 |[Two Sum](src/main/racket/g0001_0100/s0001_two_sum/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Data_Structure_I_Day_2_Array, Level_1_Day_13_Hashmap, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 0 | 100.00
+| 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Top_Interview_150_Multidimensional_DP, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
+| 0004 |[Median of Two Sorted Arrays](src/main/racket/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Top_Interview_150_Binary_Search, Big_O_Time_O(log(min(N,M)))_Space_O(1), AI_can_be_used_to_solve_the_task | 0 | 100.00
+| 0003 |[Longest Substring Without Repeating Characters](src/main/racket/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Top_Interview_150_Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 119 | 71.43
+| 0002 |[Add Two Numbers](src/main/racket/g0001_0100/s0002_add_two_numbers/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Data_Structure_II_Day_10_Linked_List, Programming_Skills_II_Day_15, Top_Interview_150_Linked_List, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 0 | 100.00
+| 0001 |[Two Sum](src/main/racket/g0001_0100/s0001_two_sum/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Data_Structure_I_Day_2_Array, Level_1_Day_13_Hashmap, Udemy_Arrays, Top_Interview_150_Hashmap, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 0 | 100.00
 
 ## Contributing
 Your ideas/fixes/algorithms are more than welcome!
