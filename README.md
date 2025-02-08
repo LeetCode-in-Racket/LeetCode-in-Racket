@@ -120,7 +120,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 731 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 #### Day 3 Two Pointers
 
@@ -296,7 +296,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 731 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 ### Binary Search II
 
@@ -1039,7 +1039,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 731 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 #### Udemy Arrays
 
@@ -1273,7 +1273,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0074 |[Search a 2D Matrix](src/main/racket/g0001_0100/s0074_search_a_2d_matrix/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 0 | 100.00
 | 0033 |[Search in Rotated Sorted Array](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 | 0034 |[Find First and Last Position of Element in Sorted Array](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 731 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 | 0004 |[Median of Two Sorted Arrays](src/main/racket/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1), AI_can_be_used_to_solve_the_task | 0 | 100.00
 
 #### Top Interview 150 Heap
@@ -1520,7 +1520,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0198 |[House Robber](src/main/racket/g0101_0200/s0198_house_robber/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0169 |[Majority Element](src/main/racket/g0101_0200/s0169_majority_element/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Data_Structure_II_Day_1_Array, Udemy_Famous_Algorithm, Top_Interview_150_Array/String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0155 |[Min Stack](src/main/racket/g0101_0200/s0155_min_stack/MinStack.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Data_Structure_II_Day_14_Stack_Queue, Programming_Skills_II_Day_18, Level_2_Day_16_Design, Udemy_Design, Top_Interview_150_Stack, Big_O_Time_O(1)_Space_O(N) | 32 | 100.00
-| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Dynamic_Programming_I_Day_6, Level_2_Day_13_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 731 | 100.00
+| 0153 |[Find Minimum in Rotated Sorted Array](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_II_Day_2_Binary_Search, Binary_Search_I_Day_12, Udemy_Binary_Search, Top_Interview_150_Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 | 0152 |[Maximum Product Subarray](src/main/racket/g0101_0200/s0152_maximum_product_subarray/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Dynamic_Programming_I_Day_6, Level_2_Day_13_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 731 | 100.00
 | 0148 |[Sort List](src/main/racket/g0101_0200/s0148_sort_list/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Level_2_Day_4_Linked_List, Top_Interview_150_Divide_and_Conquer, Big_O_Time_O(log(N))_Space_O(log(N)) | 31 | 100.00
 | 0146 |[LRU Cache](src/main/racket/g0101_0200/s0146_lru_cache/LRUCache.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Top_Interview_150_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 471 | 100.00
