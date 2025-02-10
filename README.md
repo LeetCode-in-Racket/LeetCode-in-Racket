@@ -204,6 +204,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
 
 #### Day 17 Dynamic Programming
 
@@ -314,6 +315,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
 
 #### Day 4
 
@@ -324,6 +326,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0287 |[Find the Duplicate Number](src/main/racket/g0201_0300/s0287_find_the_duplicate_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Big_O_Time_O(n)_Space_O(n) | 327 | 100.00
 
 #### Day 6
 
@@ -493,6 +496,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0064 |[Minimum Path Sum](src/main/racket/g0001_0100/s0064_minimum_path_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 92 | 100.00
+| 0221 |[Maximal Square](src/main/racket/g0201_0300/s0221_maximal_square/Solution.rkt)| Medium | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 426 | 100.00
 
 #### Day 17
 
@@ -504,6 +508,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
 
 #### Day 19
 
@@ -917,6 +922,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0019 |[Remove Nth Node From End of List](src/main/racket/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+| 0234 |[Palindrome Linked List](src/main/racket/g0201_0300/s0234_palindrome_linked_list/Solution.rkt)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 69 | 100.00
 
 #### Day 4 Linked List
 
@@ -933,6 +939,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0226 |[Invert Binary Tree](src/main/racket/g0201_0300/s0226_invert_binary_tree/Solution.rkt)| Easy | Depth_First_Search, Tree, Binary_Search, Binary_Tree | 0 | 100.00
 
 #### Day 7 Tree
 
@@ -950,6 +957,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/racket/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.rkt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 27 | 100.00
 
 #### Day 10 Graph/BFS/DFS
 
@@ -991,6 +999,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0155 |[Min Stack](src/main/racket/g0101_0200/s0155_min_stack/MinStack.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 32 | 100.00
+| 0208 |[Implement Trie (Prefix Tree)](src/main/racket/g0201_0300/s0208_implement_trie_prefix_tree/Trie.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 102 | 100.00
 
 #### Day 17 Interval
 
@@ -1048,6 +1057,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0121 |[Best Time to Buy and Sell Stock](src/main/racket/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 7 | 100.00
 | 0001 |[Two Sum](src/main/racket/g0001_0100/s0001_two_sum/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 0 | 100.00
 | 0055 |[Jump Game](src/main/racket/g0001_0100/s0055_jump_game/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0238 |[Product of Array Except Self](src/main/racket/g0201_0300/s0238_product_of_array_except_self/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 10 | 100.00
 | 0041 |[First Missing Positive](src/main/racket/g0001_0100/s0041_first_missing_positive/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 11 | 100.00
 
 #### Udemy Two Pointers
@@ -1084,6 +1094,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0024 |[Swap Nodes in Pairs](src/main/racket/g0001_0100/s0024_swap_nodes_in_pairs/Solution.rkt)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0206 |[Reverse Linked List](src/main/racket/g0201_0300/s0206_reverse_linked_list/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/racket/g0001_0100/s0021_merge_two_sorted_lists/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0234 |[Palindrome Linked List](src/main/racket/g0201_0300/s0234_palindrome_linked_list/Solution.rkt)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 69 | 100.00
 | 0025 |[Reverse Nodes in k-Group](src/main/racket/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.rkt)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
 | 0146 |[LRU Cache](src/main/racket/g0101_0200/s0146_lru_cache/LRUCache.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 471 | 100.00
 
@@ -1093,6 +1104,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/racket/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0102 |[Binary Tree Level Order Traversal](src/main/racket/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+| 0226 |[Invert Binary Tree](src/main/racket/g0201_0300/s0226_invert_binary_tree/Solution.rkt)| Easy | Depth_First_Search, Tree, Binary_Search, Binary_Tree | 0 | 100.00
 | 0104 |[Maximum Depth of Binary Tree](src/main/racket/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
 | 0124 |[Binary Tree Maximum Path Sum](src/main/racket/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/racket/g0001_0100/s0098_validate_binary_search_tree/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
@@ -1101,6 +1113,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0208 |[Implement Trie (Prefix Tree)](src/main/racket/g0201_0300/s0208_implement_trie_prefix_tree/Trie.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 102 | 100.00
 
 #### Udemy Graph
 
@@ -1117,6 +1130,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0198 |[House Robber](src/main/racket/g0101_0200/s0198_house_robber/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0070 |[Climbing Stairs](src/main/racket/g0001_0100/s0070_climbing_stairs/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0064 |[Minimum Path Sum](src/main/racket/g0001_0100/s0064_minimum_path_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 92 | 100.00
+| 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
 | 0072 |[Edit Distance](src/main/racket/g0001_0100/s0072_edit_distance/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 4 | 100.00
 | 0010 |[Regular Expression Matching](src/main/racket/g0001_0100/s0010_regular_expression_matching/Solution.rkt)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 11 | 100.00
 
@@ -1151,6 +1165,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0121 |[Best Time to Buy and Sell Stock](src/main/racket/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 7 | 100.00
 | 0055 |[Jump Game](src/main/racket/g0001_0100/s0055_jump_game/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0045 |[Jump Game II](src/main/racket/g0001_0100/s0045_jump_game_ii/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 631 | 100.00
+| 0238 |[Product of Array Except Self](src/main/racket/g0201_0300/s0238_product_of_array_except_self/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 10 | 100.00
 | 0042 |[Trapping Rain Water](src/main/racket/g0001_0100/s0042_trapping_rain_water/Solution.rkt)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0006 |[Zigzag Conversion](src/main/racket/g0001_0100/s0006_zigzag_conversion/Solution.rkt)| Medium | String | 57 | 100.00
 
@@ -1209,6 +1224,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0104 |[Maximum Depth of Binary Tree](src/main/racket/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+| 0226 |[Invert Binary Tree](src/main/racket/g0201_0300/s0226_invert_binary_tree/Solution.rkt)| Easy | Depth_First_Search, Tree, Binary_Search, Binary_Tree | 0 | 100.00
 | 0101 |[Symmetric Tree](src/main/racket/g0101_0200/s0101_symmetric_tree/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 | 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/racket/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 23 | 100.00
 | 0114 |[Flatten Binary Tree to Linked List](src/main/racket/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.rkt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
@@ -1224,6 +1240,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/racket/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.rkt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 27 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/racket/g0001_0100/s0098_validate_binary_search_tree/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Top Interview 150 Graph General
@@ -1231,6 +1248,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0200 |[Number of Islands](src/main/racket/g0101_0200/s0200_number_of_islands/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 349 | 100.00
+| 0207 |[Course Schedule](src/main/racket/g0201_0300/s0207_course_schedule/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 4 | 100.00
 
 #### Top Interview 150 Graph BFS
 
@@ -1241,6 +1259,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0208 |[Implement Trie (Prefix Tree)](src/main/racket/g0201_0300/s0208_implement_trie_prefix_tree/Trie.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 102 | 100.00
 
 #### Top Interview 150 Backtracking
 
@@ -1280,6 +1299,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0215 |[Kth Largest Element in an Array](src/main/racket/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 79 | 100.00
 
 #### Top Interview 150 Bit Manipulation
 
@@ -1300,6 +1320,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0070 |[Climbing Stairs](src/main/racket/g0001_0100/s0070_climbing_stairs/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0198 |[House Robber](src/main/racket/g0101_0200/s0198_house_robber/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0139 |[Word Break](src/main/racket/g0101_0200/s0139_word_break/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 4 | 100.00
+| 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
 
 #### Top Interview 150 Multidimensional DP
 
@@ -1308,6 +1329,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0064 |[Minimum Path Sum](src/main/racket/g0001_0100/s0064_minimum_path_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 92 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/racket/g0001_0100/s0005_longest_palindromic_substring/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 4 | 100.00
 | 0072 |[Edit Distance](src/main/racket/g0001_0100/s0072_edit_distance/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 4 | 100.00
+| 0221 |[Maximal Square](src/main/racket/g0201_0300/s0221_maximal_square/Solution.rkt)| Medium | Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 426 | 100.00
 
 ### Data Structure I
 
@@ -1381,6 +1403,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0226 |[Invert Binary Tree](src/main/racket/g0201_0300/s0226_invert_binary_tree/Solution.rkt)| Easy | Depth_First_Search, Tree, Binary_Search, Binary_Tree | 0 | 100.00
 
 #### Day 13 Tree
 
@@ -1423,6 +1446,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0238 |[Product of Array Except Self](src/main/racket/g0201_0300/s0238_product_of_array_except_self/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 10 | 100.00
 
 #### Day 6 String
 
@@ -1490,6 +1514,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/racket/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.rkt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 27 | 100.00
 
 #### Day 18 Tree
 
@@ -1505,6 +1530,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0215 |[Kth Largest Element in an Array](src/main/racket/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 79 | 100.00
 
 #### Day 21 Heap Priority Queue
 
@@ -1515,6 +1541,16 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
+| 0287 |[Find the Duplicate Number](src/main/racket/g0201_0300/s0287_find_the_duplicate_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Binary_Search_II_Day_5, Big_O_Time_O(n)_Space_O(n) | 327 | 100.00
+| 0238 |[Product of Array Except Self](src/main/racket/g0201_0300/s0238_product_of_array_except_self/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Data_Structure_II_Day_5_Array, Udemy_Arrays, Top_Interview_150_Array/String, Big_O_Time_O(n^2)_Space_O(n) | 10 | 100.00
+| 0234 |[Palindrome Linked List](src/main/racket/g0201_0300/s0234_palindrome_linked_list/Solution.rkt)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Level_2_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 69 | 100.00
+| 0230 |[Kth Smallest Element in a BST](src/main/racket/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.rkt)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_II_Day_17_Tree, Level_2_Day_9_Binary_Search_Tree, Top_Interview_150_Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 27 | 100.00
+| 0226 |[Invert Binary Tree](src/main/racket/g0201_0300/s0226_invert_binary_tree/Solution.rkt)| Easy | Depth_First_Search, Tree, Binary_Search, Binary_Tree, Binary_Search_II_Day_10, Top_Interview_150_Binary_Tree_General | 0 | 100.00
+| 0221 |[Maximal Square](src/main/racket/g0201_0300/s0221_maximal_square/Solution.rkt)| Medium | Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Top_Interview_150_Multidimensional_DP, Big_O_Time_O(m\*n)_Space_O(m\*n) | 426 | 100.00
+| 0215 |[Kth Largest Element in an Array](src/main/racket/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Data_Structure_II_Day_20_Heap_Priority_Queue, Top_Interview_150_Heap, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 79 | 100.00
+| 0208 |[Implement Trie (Prefix Tree)](src/main/racket/g0201_0300/s0208_implement_trie_prefix_tree/Trie.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Level_2_Day_16_Design, Udemy_Trie_and_Heap, Top_Interview_150_Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 102 | 100.00
+| 0207 |[Course Schedule](src/main/racket/g0201_0300/s0207_course_schedule/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Top_Interview_150_Graph_General, Big_O_Time_O(N)_Space_O(N) | 4 | 100.00
 | 0206 |[Reverse Linked List](src/main/racket/g0201_0300/s0206_reverse_linked_list/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_8_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0200 |[Number of Islands](src/main/racket/g0101_0200/s0200_number_of_islands/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search, Graph_Theory_I_Day_1_Matrix_Related_Problems, Level_1_Day_9_Graph/BFS/DFS, Udemy_Graph, Top_Interview_150_Graph_General, Big_O_Time_O(M\*N)_Space_O(M\*N) | 349 | 100.00
 | 0198 |[House Robber](src/main/racket/g0101_0200/s0198_house_robber/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
