@@ -1,7 +1,7 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table #Design #Trie
 ; #Level_2_Day_16_Design #Udemy_Trie_and_Heap #Top_Interview_150_Trie
 ; #Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N)
-; #2025_02_10_Time_102_(100.00%)_Space_134.45_(100.00%)
+; #2025_02_10_Time_102_ms_(100.00%)_Space_134.45_MB_(100.00%)
 
 (define trie%
   (class object%

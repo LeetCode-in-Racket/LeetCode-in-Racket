@@ -1,6 +1,6 @@
 ; #Easy #Top_100_Liked_Questions #Two_Pointers #Stack #Linked_List #Recursion
 ; #Level_2_Day_3_Linked_List #Udemy_Linked_List #Big_O_Time_O(n)_Space_O(1)
-; #2025_02_10_Time_69_(100.00%)_Space_130.91_(100.00%)
+; #2025_02_10_Time_69_ms_(100.00%)_Space_130.91_MB_(100.00%)
 
 ; Definition for singly-linked list:
 #|

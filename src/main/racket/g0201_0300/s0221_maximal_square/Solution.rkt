@@ -1,6 +1,6 @@
 ; #Medium #Array #Dynamic_Programming #Matrix #Dynamic_Programming_I_Day_16
 ; #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(m*n)_Space_O(m*n)
-; #2025_02_10_Time_426_(100.00%)_Space_130.80_(100.00%)
+; #2025_02_10_Time_426_ms_(100.00%)_Space_130.80_MB_(100.00%)
 
 (define/contract (maximal-square matrix)
   (-> (listof (listof char?)) exact-integer?)
