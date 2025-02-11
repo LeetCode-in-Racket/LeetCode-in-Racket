@@ -1,5 +1,5 @@
 ; #Medium #Top_100_Liked_Questions #Array #Hash_Table #Prefix_Sum #Data_Structure_II_Day_5_Array
-; #Big_O_Time_O(n)_Space_O(n) #2025_02_11_Time_56_(100.00%)_Space_131.71_(_%)
+; #Big_O_Time_O(n)_Space_O(n) #2025_02_11_Time_56_ms_(100.00%)_Space_131.71_MB_(_%)
 
 (define/contract (subarray-sum nums k)
   (-> (listof exact-integer?) exact-integer? exact-integer?)

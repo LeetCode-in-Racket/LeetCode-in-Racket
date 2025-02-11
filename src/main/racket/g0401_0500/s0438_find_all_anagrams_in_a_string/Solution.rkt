@@ -1,7 +1,7 @@
 ; #Medium #Top_100_Liked_Questions #String #Hash_Table #Sliding_Window
 ; #Algorithm_II_Day_5_Sliding_Window #Programming_Skills_II_Day_12
 ; #Level_1_Day_12_Sliding_Window/Two_Pointer #Big_O_Time_O(n+m)_Space_O(1)
-; #2025_02_11_Time_57_(100.00%)_Space_131.96_(100.00%)
+; #2025_02_11_Time_57_ms_(100.00%)_Space_131.96_MB_(100.00%)
 
 (define/contract (find-anagrams s p)
   (-> string? string? (listof exact-integer?))

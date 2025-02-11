@@ -1,5 +1,5 @@
 ; #Medium #Array #Dynamic_Programming #Backtracking #Big_O_Time_O(n*(sum+s))_Space_O(n*(sum+s))
-; #2025_02_11_Time_1_(100.00%)_Space_101.46_(100.00%)
+; #2025_02_11_Time_1_ms_(100.00%)_Space_101.46_MB_(100.00%)
 
 (define/contract (find-target-sum-ways nums target)
   (-> (listof exact-integer?) exact-integer? exact-integer?)

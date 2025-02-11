@@ -1,5 +1,5 @@
 ; #Medium #Depth_First_Search #Tree #Binary_Tree #Level_2_Day_7_Tree #Big_O_Time_O(n)_Space_O(n)
-; #2025_02_11_Time_107_(100.00%)_Space_136.84_(100.00%)
+; #2025_02_11_Time_107_ms_(100.00%)_Space_136.84_MB_(100.00%)
 
 ; Definition for a binary tree node.
 #|
