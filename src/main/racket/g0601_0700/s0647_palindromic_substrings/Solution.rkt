@@ -1,5 +1,5 @@
 ; #Medium #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
-; #2025_02_12_Time_7_(100.00%)_Space_101.84_(100.00%)
+; #2025_02_12_Time_7_ms_(100.00%)_Space_101.84_MB_(100.00%)
 
 (define (check-polin vec left right)
   (cond [(< left 0) 0]
