@@ -4,11 +4,11 @@
 (define/contract (largest-rectangle-area heights)
   (-> (listof exact-integer?) exact-integer?)
   (let* ((n (length heights))
-         (heights-vec (list->vector (append heights '(0)))) ; Add 0 to handle remaining stack
+         (heights-vec (list->vector (append heights '(0))))
          (stack '())
          (max-area 0))
     
-    (for ([i (in-range (add1 n))]) ; Iterate from 0 to n (including extra 0)
+    (for ([i (in-range (add1 n))])
       (let loop ()
         (when (and (not (null? stack))
                    (<= (vector-ref heights-vec i) (vector-ref heights-vec (car stack))))
@@ -20,6 +20,6 @@
             (set! max-area (max max-area area))
             (set! stack new-stack)
             (loop))))
-      (set! stack (cons i stack))) ; Push current index onto the stack
+      (set! stack (cons i stack)))
 
     max-area))
