@@ -1,5 +1,5 @@
 ; #Medium #String #Hash_Table #Greedy #Two_Pointers #Data_Structure_II_Day_7_String
-; #Big_O_Time_O(n)_Space_O(1) #2025_02_12_Time_0_(100.00%)_Space_101.55_(100.00%)
+; #Big_O_Time_O(n)_Space_O(1) #2025_02_12_Time_0_ms_(100.00%)_Space_101.55_MB_(100.00%)
 
 (define/contract (partition-labels s)
   (-> string? (listof exact-integer?))

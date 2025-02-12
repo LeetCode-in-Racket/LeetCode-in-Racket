@@ -1,7 +1,7 @@
 ; #Medium #Top_100_Liked_Questions #String #Dynamic_Programming
 ; #Algorithm_II_Day_17_Dynamic_Programming #Dynamic_Programming_I_Day_19
 ; #Udemy_Dynamic_Programming #Big_O_Time_O(n*m)_Space_O(n*m)
-; #2025_02_12_Time_110_(100.00%)_Space_141.77_(100.00%)
+; #2025_02_12_Time_110_ms_(100.00%)_Space_141.77_MB_(100.00%)
 
 (define (dp-ref dp i j)
   (vector-ref (vector-ref dp i) j))
