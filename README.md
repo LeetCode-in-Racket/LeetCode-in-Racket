@@ -211,6 +211,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/racket/g1101_1200/s1143_longest_common_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 110 | 100.00
 
 #### Day 18 Dynamic Programming
 
@@ -516,6 +517,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/racket/g1101_1200/s1143_longest_common_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 110 | 100.00
 | 0072 |[Edit Distance](src/main/racket/g0001_0100/s0072_edit_distance/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 4 | 100.00
 
 #### Day 20
@@ -623,6 +625,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0739 |[Daily Temperatures](src/main/racket/g0701_0800/s0739_daily_temperatures/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 42 | 100.00
 
 #### Day 7
 
@@ -1143,6 +1146,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0070 |[Climbing Stairs](src/main/racket/g0001_0100/s0070_climbing_stairs/Solution.rkt)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0064 |[Minimum Path Sum](src/main/racket/g0001_0100/s0064_minimum_path_sum/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 92 | 100.00
 | 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/racket/g1101_1200/s1143_longest_common_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 110 | 100.00
 | 0072 |[Edit Distance](src/main/racket/g0001_0100/s0072_edit_distance/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 4 | 100.00
 | 0010 |[Regular Expression Matching](src/main/racket/g0001_0100/s0010_regular_expression_matching/Solution.rkt)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 11 | 100.00
 
@@ -1472,6 +1476,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0763 |[Partition Labels](src/main/racket/g0701_0800/s0763_partition_labels/Solution.rkt)| Medium | String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 8 String
 
@@ -1557,6 +1562,10 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 1143 |[Longest Common Subsequence](src/main/racket/g1101_1200/s1143_longest_common_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 110 | 100.00
+| 0763 |[Partition Labels](src/main/racket/g0701_0800/s0763_partition_labels/Solution.rkt)| Medium | String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0739 |[Daily Temperatures](src/main/racket/g0701_0800/s0739_daily_temperatures/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 42 | 100.00
+| 0647 |[Palindromic Substrings](src/main/racket/g0601_0700/s0647_palindromic_substrings/Solution.rkt)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 7 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/racket/g0501_0600/s0560_subarray_sum_equals_k/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 56 | 100.00
 | 0543 |[Diameter of Binary Tree](src/main/racket/g0501_0600/s0543_diameter_of_binary_tree/Solution.rkt)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0494 |[Target Sum](src/main/racket/g0401_0500/s0494_target_sum/Solution.rkt)| Medium | Array, Dynamic_Programming, Backtracking, Big_O_Time_O(n\*(sum+s))_Space_O(n\*(sum+s)) | 1 | 100.00
