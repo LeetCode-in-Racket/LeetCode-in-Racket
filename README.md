@@ -1317,6 +1317,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/racket/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.rkt)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 79 | 100.00
+| 0295 |[Find Median from Data Stream](src/main/racket/g0201_0300/s0295_find_median_from_data_stream/MedianFinder.rkt)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 437 | 100.00
 
 #### Top Interview 150 Bit Manipulation
 
@@ -1577,6 +1578,7 @@ Racket-based LeetCode algorithm problem solutions, regularly updated.
 | 0338 |[Counting Bits](src/main/racket/g0301_0400/s0338_counting_bits/Solution.rkt)| Easy | Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 3 | 100.00
 | 0322 |[Coin Change](src/main/racket/g0301_0400/s0322_coin_change/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(m\*n)_Space_O(amount) | 29 | 100.00
 | 0300 |[Longest Increasing Subsequence](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 100.00
+| 0295 |[Find Median from Data Stream](src/main/racket/g0201_0300/s0295_find_median_from_data_stream/MedianFinder.rkt)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Top_Interview_150_Heap, Big_O_Time_O(n\*log_n)_Space_O(n) | 437 | 100.00
 | 0287 |[Find the Duplicate Number](src/main/racket/g0201_0300/s0287_find_the_duplicate_number/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Binary_Search_II_Day_5, Big_O_Time_O(n)_Space_O(n) | 327 | 100.00
 | 0238 |[Product of Array Except Self](src/main/racket/g0201_0300/s0238_product_of_array_except_self/Solution.rkt)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Data_Structure_II_Day_5_Array, Udemy_Arrays, Top_Interview_150_Array/String, Big_O_Time_O(n^2)_Space_O(n) | 10 | 100.00
 | 0234 |[Palindrome Linked List](src/main/racket/g0201_0300/s0234_palindrome_linked_list/Solution.rkt)| Easy | Top_100_Liked_Questions, Two_Pointers, Stack, Linked_List, Recursion, Level_2_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 69 | 100.00
