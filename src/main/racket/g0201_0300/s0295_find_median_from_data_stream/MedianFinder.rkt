@@ -29,3 +29,8 @@
       (if (> (heap-count max-heap) (heap-count min-heap))
           (exact->inexact (heap-min max-heap))
           (/ (+ (heap-min max-heap) (heap-min min-heap)) 2.0)))))
+
+;; Your median-finder% object will be instantiated and called as such:
+;; (define obj (new median-finder%))
+;; (send obj add-num num)
+;; (define param_2 (send obj find-median))
